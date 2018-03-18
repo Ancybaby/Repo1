@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AEE2-4FFB
+
+ Directory of C:\Users\ab00359286\Desktop\GITPROJECT
+
+03/19/2018  02:31 AM    <DIR>          .
+03/19/2018  02:31 AM    <DIR>          ..
+03/19/2018  02:31 AM                 0 gitlearn.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,349,194,752 bytes free
